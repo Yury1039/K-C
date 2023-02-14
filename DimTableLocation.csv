@@ -1,0 +1,1122 @@
+Id_ Clients,Region,City
+5001,America, Brazil
+5002,America, Brazil
+5004,America, Brazil
+5021,America, Brazil
+5030,America, Brazil
+5031,America, Brazil
+5034,America, Brazil
+5036,America, Brazil
+5038,America, Brazil
+5040,America, Brazil
+5042,America, Brazil
+5044,America, Brazil
+5045,America, Brazil
+5051,America, Brazil
+5055,America, Brazil
+5059,America, Brazil
+5079,America, Brazil
+5086,America, Brazil
+5088,America, Brazil
+5091,America, Brazil
+5093,America, Argentina
+5101,America, Argentina
+5107,America, Argentina
+5113,America, Argentina
+5120,America, Argentina
+5125,America, Argentina
+5129,America, Argentina
+5134,America, Argentina
+5138,America, Argentina
+5142,America, Argentina
+5145,America, Argentina
+5147,America, Argentina
+5148,America, Argentina
+5150,America, Argentina
+5154,America, Argentina
+5172,America, Argentina
+5190,America, Argentina
+5197,America, Argentina
+5206,America, Argentina
+5209,America, Argentina
+5212,America, Argentina
+5234,America, Argentina
+5237,America, Argentina
+5240,America, Argentina
+5250,America, Argentina
+5264,America, Argentina
+5266,America, Argentina
+5282,America, Argentina
+5284,America, Argentina
+5306,America, Argentina
+5308,America, Argentina
+5310,America, Argentina
+5313,America, Argentina
+5315,America, Argentina
+5318,America, Argentina
+5321,America, Argentina
+5347,America, Argentina
+5353,America, Argentina
+5360,America, Argentina
+5361,America, Argentina
+5364,America, Argentina
+5368,America, Argentina
+5376,America, Argentina
+5380,America, Argentina
+5390,America, Argentina
+5400,America, Argentina
+5411,America, Argentina
+5425,America, Argentina
+5440,America, Argentina
+5467,America, Argentina
+5475,America, Argentina
+5480,America, Argentina
+5483,America, Argentina
+5490,America, Argentina
+5495,America, Argentina
+5501,America, Argentina
+5541,America, Argentina
+5543,America, Argentina
+5576,America, Argentina
+5579,America, Argentina
+5585,America, Argentina
+5591,America, Argentina
+5604,America, Argentina
+5607,America, Argentina
+5615,America, Argentina
+5628,America, Argentina
+5631,America, Argentina
+5642,America, Argentina
+5647,America, Argentina
+5649,America, Argentina
+5652,America, Argentina
+5656,America, Argentina
+5658,America, Argentina
+5659,America, Argentina
+5660,America, Argentina
+5664,America, Argentina
+5665,America, Argentina
+5667,America, Argentina
+5670,America, Argentina
+5674,America, Argentina
+5679,America, Argentina
+5686,America, Argentina
+5690,America, Argentina
+5697,America, Argentina
+5736,America, Argentina
+5756,America, Argentina
+5761,America, Argentina
+5789,America, Argentina
+5790,America, Argentina
+5792,America, Argentina
+5809,America, Argentina
+5819,America, Argentina
+5837,America, Argentina
+5842,America,Canada
+5847,America,Canada
+5854,America,Canada
+5856,America,Canada
+5858,America,Canada
+5861,America,Canada
+5873,America,Canada
+5885,America,Canada
+5887,America,Canada
+5890,America,Canada
+5893,America,Canada
+5895,America,Canada
+8001,Europe,España
+8078,Europe,España
+8137,Europe,España
+8141,Europe,España
+8296,Europe,España
+8372,Europe,España
+8421,Europe,España
+8433,Europe,España
+8436,Europe,España
+8520,Europe,España
+8549,Europe,España
+8558,Europe,España
+8560,Europe,España
+8573,Europe,España
+8606,Europe,España
+8634,Europe,España
+8638,Europe,España
+8675,Europe,España
+8685,Europe,España
+8758,Europe,España
+8770,Europe,España
+8832,Europe,España
+8849,Europe,España
+13001,Middle East,Dubai
+13006,Middle East,Dubai
+13030,Middle East,Dubai
+13042,Middle East,Dubai
+13052,Middle East,Dubai
+13062,Middle East,Dubai
+13074,Middle East,Dubai
+13140,Middle East,Dubai
+13160,Middle East,Dubai
+13188,Middle East,Dubai
+13212,Middle East,Dubai
+13222,Middle East,Dubai
+13244,Middle East,Dubai
+13248,Middle East,Dubai
+13268,Middle East,Dubai
+13300,Middle East,Dubai
+13430,Middle East,Dubai
+13433,Middle East,Dubai
+13440,Middle East,Dubai
+13442,Middle East,Dubai
+13458,Middle East,Dubai
+13468,Middle East,Dubai
+13473,Middle East,Dubai
+13490,Middle East,Dubai
+13549,Middle East,Dubai
+13580,Middle East,Dubai
+13600,Middle East,Dubai
+13620,Middle East,Dubai
+13647,Middle East,Dubai
+13650,Middle East,Dubai
+13654,Middle East,Dubai
+13655,Middle East,Dubai
+13657,Middle East,Dubai
+13667,Middle East,Dubai
+13670,Middle East,Dubai
+13673,Middle East,Dubai
+13683,Middle East,Dubai
+13688,Middle East,Dubai
+13744,Middle East,Dubai
+13760,Middle East,Dubai
+13780,Middle East,Dubai
+13810,Middle East,Dubai
+13836,Middle East,Dubai
+13838,Middle East,Dubai
+13873,Middle East,Dubai
+13894,Middle East,Dubai
+68001,America,Chile
+68013,America,Chile
+68020,America,Chile
+68051,America,Chile
+68077,America,Chile
+68079,America,Chile
+68081,America,Chile
+68092,America,Chile
+68101,America,Chile
+68121,America,Chile
+68132,America,Chile
+68147,America,Chile
+68152,America,Chile
+68160,America,Chile
+68162,America,Chile
+68167,America,Chile
+68169,America,Chile
+68176,America,Chile
+68179,America,Chile
+68190,America,Chile
+68207,America,Chile
+68209,America,Chile
+68211,America,Chile
+68217,America,Chile
+68229,America,Chile
+68235,America,Chile
+68245,America,Chile
+68250,America,Chile
+68255,America,Chile
+68264,America,Chile
+68266,America,Chile
+68271,America,Chile
+68276,America,Chile
+68296,America,Chile
+68298,America,Chile
+68307,America,Chile
+68318,America,Chile
+68320,America,Chile
+68322,America,Chile
+68324,America,Chile
+68327,America,Chile
+68344,America,Chile
+68368,America,Chile
+68370,America,Chile
+68377,America,Chile
+68385,America,Chile
+68397,America,Chile
+68406,America,Chile
+68418,America,Chile
+68425,America,Chile
+68432,America,Chile
+68444,America,Chile
+68464,America,Chile
+68468,America,Chile
+68498,America,Chile
+68500,America,Chile
+68502,America,Chile
+68522,America,Chile
+68524,America,Chile
+68533,America,Chile
+68547,America,Chile
+68549,America,Chile
+68572,America, Mexico
+68573,America, Mexico
+68575,America, Mexico
+68615,America, Mexico
+68655,America, Mexico
+68669,America, Mexico
+68673,America, Mexico
+68679,America, Mexico
+68682,America, Mexico
+68684,America, Mexico
+68686,America, Mexico
+68689,America, Mexico
+68705,America,United States
+68720,America,United States
+68745,America,United States
+68755,America,United States
+68770,America,United States
+68773,America,United States
+68780,America,United States
+68820,America,United States
+68855,America,United States
+68861,America,United States
+68867,America,United States
+68872,America,United States
+68895,America,United States
+76001,America,United States
+76020,America,United States
+76036,America,United States
+76041,America,United States
+76054,America,United States
+76100,America,United States
+76109,America,United States
+76111,America,United States
+76113,America,United States
+76122,America,United States
+76126,America,United States
+76130,America,United States
+76147,America,United States
+76233,America,United States
+76243,America,United States
+76246,America,United States
+76248,America,United States
+76250,America,United States
+76275,America,United States
+76306,America,United States
+76318,America,United States
+76364,America,United States
+76377,America,United States
+76400,America,United States
+76403,America,United States
+76497,America,United States
+76520,America,United States
+76563,America,United States
+76606,America,United States
+76616,America,United States
+76622,America,United States
+76670,America,United States
+76736,America,United States
+76823,America,United States
+76828,America,United States
+76834,America,United States
+76845,America,United States
+76863,America,United States
+76869,America,United States
+76890,America,United States
+76892,America,United States
+76895,America,United States
+11001,Middle East,Dubai
+15001,America,United States
+15022,America,United States
+15047,America,United States
+15051,America,United States
+15087,America,United States
+15090,America,United States
+15092,America,United States
+15097,America,United States
+15104,America,United States
+15106,America,United States
+15109,America,United States
+15114,America,United States
+15131,America,United States
+15135,America,United States
+15162,America,United States
+15172,America,United States
+15176,America,United States
+15180,America,United States
+15183,America,United States
+15185,America,United States
+15187,America,United States
+15189,America,United States
+15204,America,United States
+15212,America,United States
+15215,America,United States
+15218,America,United States
+15223,America,United States
+19318,America,United States
+15224,America,United States
+15226,America,United States
+15232,America,United States
+15236,America,United States
+15238,America,United States
+15244,America,United States
+15248,America,United States
+15272,America,United States
+15276,America,United States
+15293,America,United States
+15296,America,United States
+15299,America,United States
+15317,America,United States
+15322,America,United States
+15325,America,United States
+15332,America,United States
+15362,America,United States
+15367,America,United States
+15368,America,United States
+15377,America,United States
+15380,America,United States
+15401,America,United States
+15403,America,United States
+15407,America,United States
+15425,America,United States
+15442,America,United States
+15455,America,United States
+15464,America,United States
+15466,America,United States
+15469,America,United States
+15476,America,United States
+15480,America,United States
+15491,America,United States
+15494,America,United States
+15500,America,United States
+15507,America,United States
+15511,America,United States
+15514,America,United States
+15516,America,United States
+15518,America,United States
+15522,America,United States
+15531,America,United States
+15533,America,United States
+15537,America,United States
+15542,America,United States
+15550,America,United States
+15572,America,United States
+15580,America,United States
+15599,America,United States
+15600,America,United States
+15621,America,United States
+15632,America,United States
+15638,America,United States
+15646,America,United States
+15660,America,United States
+15664,America,United States
+15667,America,United States
+15673,America,United States
+15676,America,United States
+15681,America,United States
+15686,America,United States
+15690,America,United States
+15693,America,United States
+15696,America,United States
+15720,America,United States
+15723,America,United States
+15740,America,United States
+15753,America,United States
+15755,America,United States
+15757,America,United States
+15759,America,United States
+15761,America,United States
+15762,America,United States
+15763,America,United States
+15764,America,United States
+15774,America,United States
+15776,America,United States
+15778,America,United States
+15790,America,United States
+15798,America,United States
+15804,America,United States
+15806,America,United States
+15808,America,United States
+15810,America,United States
+15814,America,United States
+15816,America,United States
+15820,America,United States
+15822,America,United States
+15832,America,United States
+15835,America,United States
+15837,America,United States
+15839,America,United States
+15842,America,United States
+15861,America,United States
+15879,America,United States
+15897,America,United States
+17001,America,United States
+17013,America,United States
+17042,America,United States
+17050,America,United States
+17088,America,United States
+17174,America,United States
+17272,America,United States
+17380,America,United States
+17388,America,United States
+17433,America,United States
+17442,America,United States
+17444,America,United States
+17446,America,United States
+17486,America,United States
+17495,America,United States
+17513,America,United States
+17524,America,United States
+17541,America,United States
+17614,America,United States
+17616,America,United States
+17653,America,United States
+17662,America,United States
+17665,America,United States
+17777,America,United States
+17867,America,United States
+17873,America,United States
+17877,America,United States
+18001,America,United States
+18029,America,United States
+18094,America,United States
+18150,America,United States
+18205,America,United States
+18247,America,United States
+18256,America,United States
+18410,America,United States
+18460,America,United States
+18479,America,United States
+18592,America,United States
+18610,America,United States
+18753,America,United States
+18756,America,United States
+18785,America,United States
+18860,America,United States
+19001,America,United States
+19022,America,United States
+19050,America,United States
+19075,America,United States
+19100,America,United States
+19110,America,United States
+19130,America,United States
+19137,America,United States
+19142,America,United States
+19212,America,United States
+19256,America,United States
+19290,America,United States
+19300,America,United States
+19355,America,United States
+19364,America,United States
+19392,America,United States
+19397,America,United States
+19418,America,United States
+19450,America,United States
+19455,America,United States
+19473,America,United States
+19513,America,United States
+19517,America,United States
+19532,America,United States
+19533,America,United States
+19548,America,United States
+19573,America,United States
+19585,America,United States
+19622,America,United States
+19693,America,United States
+19698,America,Puerto Rico
+19701,America,Puerto Rico
+19743,America,Puerto Rico
+19760,America,Puerto Rico
+19780,America,Puerto Rico
+19785,America,Puerto Rico
+19807,America,Puerto Rico
+19809,America,Puerto Rico
+19821,America,Puerto Rico
+19824,America,Puerto Rico
+19845,America,Puerto Rico
+20001,America,Puerto Rico
+20011,America,Puerto Rico
+20013,America,Puerto Rico
+20032,America,Puerto Rico
+20045,America,Puerto Rico
+20060,America,Puerto Rico
+20175,America,Puerto Rico
+20178,America,Puerto Rico
+20228,America,Puerto Rico
+20238,America,Puerto Rico
+20250,America,Puerto Rico
+20295,America,Puerto Rico
+20310,America,Puerto Rico
+20383,America,Puerto Rico
+20400,America,Puerto Rico
+20443,America,United States
+20517,America,United States
+20550,America,United States
+20570,America,United States
+20614,America,United States
+20621,America,United States
+20710,America,United States
+20750,America,United States
+20770,America,United States
+20787,America,United States
+23001,Europe,España
+23068,Europe,España
+23079,Europe,España
+23090,Europe,España
+23162,Europe,España
+23168,Europe,España
+23182,Europe,España
+23189,Europe,España
+23300,Europe,España
+23350,Europe,España
+23417,Europe,España
+23419,Europe,España
+23464,Europe,España
+23466,Europe,España
+23500,Europe,España
+23555,Europe,España
+23570,Europe,España
+23574,Europe,España
+23580,Europe,España
+23586,Europe,España
+23660,Europe,España
+23670,Europe,España
+23672,Europe,España
+23675,Europe,España
+23678,Europe,España
+23682,Europe,España
+23686,Europe,España
+23807,Europe,España
+23815,Europe,España
+23855,Europe,España
+25001,America,Estados Unidos
+25019,America,Estados Unidos
+25035,America,Estados Unidos
+25040,America,Estados Unidos
+25053,America,Estados Unidos
+25086,America,Estados Unidos
+25095,America,Estados Unidos
+25099,America,Estados Unidos
+25120,America,Estados Unidos
+25123,America,Estados Unidos
+25126,America,Estados Unidos
+25148,America,Estados Unidos
+25151,America,Estados Unidos
+25154,America,Estados Unidos
+25168,America,Estados Unidos
+25175,America,Estados Unidos
+25178,America,Estados Unidos
+25181,America,Estados Unidos
+25183,America,Estados Unidos
+25200,America,Estados Unidos
+25214,America,Estados Unidos
+25224,America,Estados Unidos
+25245,America,Estados Unidos
+25258,America,Estados Unidos
+25260,America,Estados Unidos
+25269,America,Estados Unidos
+25279,America,Estados Unidos
+25281,America,Estados Unidos
+25286,America,Estados Unidos
+25288,America,Estados Unidos
+25290,America,Estados Unidos
+25293,America,Estados Unidos
+25295,America,Estados Unidos
+25297,America,Estados Unidos
+25299,America,Estados Unidos
+25307,America,Estados Unidos
+25312,America,Estados Unidos
+25317,America,Estados Unidos
+25320,America,Estados Unidos
+25322,America,Estados Unidos
+25324,America,Estados Unidos
+25326,America,Estados Unidos
+25328,America,Estados Unidos
+25335,America,Estados Unidos
+25339,America,Estados Unidos
+25368,America,Estados Unidos
+25372,America,Estados Unidos
+25377,America,Estados Unidos
+25386,America,Estados Unidos
+25394,America,Estados Unidos
+25398,America,Estados Unidos
+25402,America,Estados Unidos
+25407,America,Estados Unidos
+25426,America,Estados Unidos
+25430,America,Estados Unidos
+25436,America,Estados Unidos
+25438,America,Estados Unidos
+25473,America,Estados Unidos
+25483,America,Estados Unidos
+25486,America,Estados Unidos
+25488,America,Estados Unidos
+25489,America,Estados Unidos
+25491,America,Estados Unidos
+25506,America,Estados Unidos
+25513,America,Estados Unidos
+25518,America,Estados Unidos
+25524,America,Estados Unidos
+25530,America,Estados Unidos
+25535,America,Estados Unidos
+25572,America,Estados Unidos
+25580,America,Estados Unidos
+25592,America,Estados Unidos
+25594,America,Estados Unidos
+25596,America,Estados Unidos
+25599,America,Estados Unidos
+25612,America,Estados Unidos
+25645,America,Estados Unidos
+25649,America,Estados Unidos
+25653,America,Estados Unidos
+25658,America,Estados Unidos
+25662,America,Estados Unidos
+25718,America,Estados Unidos
+25736,America,Estados Unidos
+25740,America,Estados Unidos
+25743,America,Estados Unidos
+25745,America,Estados Unidos
+25754,America,Estados Unidos
+25758,America,Estados Unidos
+25769,America,Estados Unidos
+25772,America,Estados Unidos
+25777,America,Estados Unidos
+25779,America,Estados Unidos
+25781,America,Estados Unidos
+25785,America,Estados Unidos
+25793,America,Estados Unidos
+25797,America,Estados Unidos
+25799,America,Estados Unidos
+25805,America,Estados Unidos
+25807,America,Estados Unidos
+25815,America,Estados Unidos
+25817,America,Estados Unidos
+25823,America,Estados Unidos
+25839,America,Estados Unidos
+25841,America,Estados Unidos
+25843,America,Estados Unidos
+25845,America,Estados Unidos
+25851,America,Estados Unidos
+25862,America,Estados Unidos
+25867,America,Estados Unidos
+25871,America,Estados Unidos
+25873,America,Estados Unidos
+25875,America,Estados Unidos
+25878,America,Estados Unidos
+25885,America,Estados Unidos
+25898,America,Estados Unidos
+25899,America,Estados Unidos
+27001,America,Estados Unidos
+27006,America,Estados Unidos
+27025,America,Estados Unidos
+27050,America,Estados Unidos
+27073,America,Estados Unidos
+27075,America,Estados Unidos
+27077,America,Estados Unidos
+27099,America,Estados Unidos
+27135,America,Estados Unidos
+27150,America,Estados Unidos
+27160,America,Estados Unidos
+27205,America,Estados Unidos
+27245,America,Estados Unidos
+27250,America,Estados Unidos
+27361,America,Estados Unidos
+27372,America,Estados Unidos
+27413,America,Estados Unidos
+27425,America,Estados Unidos
+27430,America,Estados Unidos
+27450,America,Estados Unidos
+27491,America,Estados Unidos
+27495,America,Estados Unidos
+27580,America,Estados Unidos
+27600,America,Estados Unidos
+27615,America,Estados Unidos
+27660,America,Estados Unidos
+27745,America,Estados Unidos
+27787,America,Estados Unidos
+27800,America,Estados Unidos
+27810,America,Estados Unidos
+41001,America,Estados Unidos
+41006,America,Estados Unidos
+41013,America,Estados Unidos
+41016,America,Estados Unidos
+41020,America,Estados Unidos
+41026,America,Estados Unidos
+41078,America,Estados Unidos
+41132,America,Estados Unidos
+41206,America,Estados Unidos
+41244,America,Estados Unidos
+41298,America,Estados Unidos
+41306,America,Estados Unidos
+41319,America,Estados Unidos
+41349,America,Estados Unidos
+41357,America,Estados Unidos
+41359,America,Estados Unidos
+41378,America,Estados Unidos
+41396,America,Estados Unidos
+41483,America,Estados Unidos
+41503,America,Estados Unidos
+41518,America,Estados Unidos
+41524,America,Estados Unidos
+41530,America,Estados Unidos
+41548,America,Estados Unidos
+41551,America,Estados Unidos
+41615,America,Estados Unidos
+41660,America,Estados Unidos
+41668,America,Estados Unidos
+41676,America,Estados Unidos
+41770,America,Estados Unidos
+41791,America,Estados Unidos
+41797,America,Estados Unidos
+41799,America,Estados Unidos
+41801,America,Estados Unidos
+41807,America,Estados Unidos
+41872,America,Estados Unidos
+41885,America,Estados Unidos
+44001,America,Estados Unidos
+44035,America,Estados Unidos
+44078,America,Estados Unidos
+44090,America,Estados Unidos
+44098,America,Estados Unidos
+44110,America,Estados Unidos
+44279,America,Estados Unidos
+44378,America,Estados Unidos
+44420,America,Estados Unidos
+44430,America,Estados Unidos
+44560,America,Estados Unidos
+44650,America,Estados Unidos
+44847,America,Estados Unidos
+44855,America,Estados Unidos
+44874,America,Estados Unidos
+47001,America,Estados Unidos
+47030,America,Estados Unidos
+47053,America,Estados Unidos
+47058,America,Estados Unidos
+47161,America,Estados Unidos
+47170,America,Estados Unidos
+47189,America,Estados Unidos
+47205,America,Estados Unidos
+47245,America,Estados Unidos
+47258,America,Estados Unidos
+47268,America,Estados Unidos
+47288,America,Estados Unidos
+47318,America,Estados Unidos
+47460,America,Estados Unidos
+47541,America,Estados Unidos
+47545,America,Estados Unidos
+47551,America,Estados Unidos
+47555,America,Estados Unidos
+47570,America,Estados Unidos
+47605,America,Estados Unidos
+47660,America,Estados Unidos
+47675,America,Estados Unidos
+47692,America,Estados Unidos
+47703,America,Estados Unidos
+47707,America,Estados Unidos
+47720,America,Estados Unidos
+47745,America,Estados Unidos
+47798,America,Estados Unidos
+47960,America,Estados Unidos
+47980,America,Estados Unidos
+50001,America,Estados Unidos
+50006,America,Estados Unidos
+50110,America,Estados Unidos
+50124,America,Estados Unidos
+50150,America,Estados Unidos
+50223,America,Estados Unidos
+50226,America,Estados Unidos
+50245,America,Estados Unidos
+50251,America,Estados Unidos
+50270,America,Estados Unidos
+50287,America,Estados Unidos
+50313,America,Estados Unidos
+50318,America,Estados Unidos
+50325,America,Estados Unidos
+50330,America,Estados Unidos
+50350,America,Estados Unidos
+50370,America,Estados Unidos
+50400,America,Estados Unidos
+50450,America,Estados Unidos
+50568,America,Estados Unidos
+50573,America,Estados Unidos
+50577,America,Estados Unidos
+50590,America,Estados Unidos
+50606,America,Estados Unidos
+50680,America,Estados Unidos
+50683,America,Estados Unidos
+50686,America,Estados Unidos
+50689,America,Estados Unidos
+50711,America,Estados Unidos
+52001,America,Estados Unidos
+52019,America,Estados Unidos
+52022,America,Estados Unidos
+52036,America,Estados Unidos
+52051,America,Estados Unidos
+52079,America,Estados Unidos
+52083,America,Estados Unidos
+52110,America,Estados Unidos
+52203,America,Estados Unidos
+52207,America,Estados Unidos
+52210,America,Estados Unidos
+52215,America,Estados Unidos
+52224,America,Estados Unidos
+52227,America,Estados Unidos
+52233,America,Estados Unidos
+52240,America,Estados Unidos
+52250,America,Estados Unidos
+52254,America,Estados Unidos
+52256,America,Estados Unidos
+52258,America,Estados Unidos
+52260,America,Estados Unidos
+52287,America,Estados Unidos
+52317,America,Estados Unidos
+52320,America,Estados Unidos
+52323,America,Estados Unidos
+52352,America,Estados Unidos
+52354,America,Estados Unidos
+52356,America,Estados Unidos
+52378,America,Estados Unidos
+52381,America,Estados Unidos
+52385,America,Estados Unidos
+52390,America,Estados Unidos
+52399,America,Estados Unidos
+52405,America,Estados Unidos
+52411,America,Estados Unidos
+52418,America,Estados Unidos
+52427,America,Estados Unidos
+52435,America,Estados Unidos
+52473,America,Estados Unidos
+52480,America,Estados Unidos
+52490,America,Estados Unidos
+52506,America,Estados Unidos
+52520,America,Estados Unidos
+52540,America,Estados Unidos
+52560,America,Estados Unidos
+52565,America,Estados Unidos
+52573,America,Estados Unidos
+52585,America,Estados Unidos
+52612,America,Estados Unidos
+52621,America,Estados Unidos
+52678,America,Estados Unidos
+52683,America,Estados Unidos
+52685,America,Estados Unidos
+52687,America,Estados Unidos
+52693,America,Estados Unidos
+52694,America,Estados Unidos
+52696,America,Estados Unidos
+52699,America,Estados Unidos
+52720,America,Estados Unidos
+52786,America,Estados Unidos
+52788,America,Estados Unidos
+52835,America,Estados Unidos
+52838,America,Estados Unidos
+52885,America,Estados Unidos
+54001,America,Estados Unidos
+54003,America,Estados Unidos
+54051,America,Estados Unidos
+54099,America,Estados Unidos
+54109,America,Estados Unidos
+54125,America,Estados Unidos
+54128,America,Estados Unidos
+54172,America,Estados Unidos
+54174,America,Estados Unidos
+54206,America,Estados Unidos
+54223,America,Estados Unidos
+54239,America,Estados Unidos
+54245,America,Estados Unidos
+54250,America,Estados Unidos
+54261,America,Estados Unidos
+54313,America,Estados Unidos
+54344,America,Estados Unidos
+54347,America,Estados Unidos
+54377,America,Estados Unidos
+54385,America,Estados Unidos
+54398,America,Estados Unidos
+54405,America,Estados Unidos
+54418,America,Estados Unidos
+54480,America,Estados Unidos
+54498,America,Estados Unidos
+54518,America,Estados Unidos
+54520,America,Estados Unidos
+54553,America,Estados Unidos
+54599,America,Estados Unidos
+54660,America,Estados Unidos
+54670,America,Estados Unidos
+54673,America,Estados Unidos
+54680,America,Estados Unidos
+54720,America,Estados Unidos
+54743,America,Estados Unidos
+54800,America,Estados Unidos
+54810,America,Estados Unidos
+54820,America,Estados Unidos
+54871,America,Estados Unidos
+54874,America,Estados Unidos
+63001,America,Estados Unidos
+63111,America,Estados Unidos
+63130,America,Estados Unidos
+63190,America,Estados Unidos
+63212,America,Estados Unidos
+63272,America,Estados Unidos
+63302,America,Estados Unidos
+63401,America,Estados Unidos
+63470,America,Estados Unidos
+63548,America,Estados Unidos
+63594,America,Estados Unidos
+63690,America,Estados Unidos
+66001,America,Estados Unidos
+66045,America,Estados Unidos
+66075,America,Estados Unidos
+66088,America,Estados Unidos
+66170,America,Estados Unidos
+66318,America,Estados Unidos
+66383,America,Estados Unidos
+66400,America,Estados Unidos
+66440,America,Estados Unidos
+66456,America,Estados Unidos
+66572,America,Estados Unidos
+66594,America,Estados Unidos
+66682,America,Estados Unidos
+66687,America,Estados Unidos
+70001,America,Estados Unidos
+70110,America,Estados Unidos
+70124,America,Estados Unidos
+70204,America,Estados Unidos
+70215,America,Estados Unidos
+70221,America,Estados Unidos
+70230,America,Estados Unidos
+70233,America,Estados Unidos
+70235,America,Estados Unidos
+70265,America,Estados Unidos
+70400,America,Estados Unidos
+70418,America,Estados Unidos
+70429,America,Estados Unidos
+70473,America,Estados Unidos
+70508,America,Estados Unidos
+70523,America,Estados Unidos
+70670,America,Estados Unidos
+70678,America,Estados Unidos
+70702,America,Estados Unidos
+70708,America,Estados Unidos
+70713,America,Estados Unidos
+70717,America,Estados Unidos
+70742,America,Estados Unidos
+70771,America,Estados Unidos
+70820,America,Estados Unidos
+70823,America,Estados Unidos
+73001,America,Estados Unidos
+73024,America,Estados Unidos
+73026,America,Estados Unidos
+73030,America,Estados Unidos
+73043,America,Estados Unidos
+73055,America,Estados Unidos
+73067,America,Estados Unidos
+73124,America,Estados Unidos
+73148,America,Estados Unidos
+73152,America,Estados Unidos
+73168,America,Estados Unidos
+73200,America,Estados Unidos
+73217,America,Estados Unidos
+73226,America,Estados Unidos
+73236,America,Estados Unidos
+73268,America,Estados Unidos
+73270,America,Estados Unidos
+73275,America,Estados Unidos
+73283,America,Estados Unidos
+73319,America,Estados Unidos
+73347,America,Estados Unidos
+73349,America,Estados Unidos
+73352,America,Estados Unidos
+73408,America,Estados Unidos
+73411,America,Estados Unidos
+73443,America,Estados Unidos
+73449,America,Estados Unidos
+73461,America,Estados Unidos
+73483,America,Estados Unidos
+73504,America,Estados Unidos
+73520,America,Estados Unidos
+73547,America,Estados Unidos
+73555,America,Estados Unidos
+73563,America,Estados Unidos
+73585,America,Estados Unidos
+73616,America,Estados Unidos
+73622,America,Estados Unidos
+73624,America,Estados Unidos
+73671,America,Estados Unidos
+73675,America,Estados Unidos
+73678,America,Estados Unidos
+73686,America,Estados Unidos
+73770,America,Estados Unidos
+73854,America,Estados Unidos
+73861,America,Estados Unidos
+73870,America,Estados Unidos
+73873,America,Estados Unidos
+81001,America,Estados Unidos
+81065,America,Estados Unidos
+81220,America,Estados Unidos
+81300,America,Estados Unidos
+81591,America,Estados Unidos
+81736,America,Estados Unidos
+81794,America,Estados Unidos
+85001,Europe,Alemania
+85010,Europe,Alemania
+85015,Europe,Alemania
+85125,Europe,Alemania
+85136,Europe,Alemania
+85139,Europe,Alemania
+85162,Europe,Alemania
+85225,Europe,Alemania
+85230,Europe,Alemania
+85250,Europe,Alemania
+85263,Europe,Alemania
+85279,Europe,Alemania
+85300,Europe,Alemania
+85315,Europe,Alemania
+85325,Europe,Alemania
+85400,Europe,Alemania
+85410,Europe,Alemania
+85430,Europe,Alemania
+85440,Europe,Alemania
+86001,America,Estados Unidos
+86219,America,Estados Unidos
+86320,America,Estados Unidos
+86568,America,Estados Unidos
+86569,America,Estados Unidos
+86571,America,Estados Unidos
+86573,America,Estados Unidos
+86749,America,Estados Unidos
+86755,America,Estados Unidos
+86757,America,Estados Unidos
+86760,America,Estados Unidos
+86865,America,Estados Unidos
+86885,America,Estados Unidos
+88001,America,Estados Unidos
+88564,America,Estados Unidos
+91001,America,Estados Unidos
+91263,America,Estados Unidos
+91405,America,Estados Unidos
+91407,America,Estados Unidos
+91430,America,Estados Unidos
+91460,America,Estados Unidos
+91530,America,Estados Unidos
+91536,America,Estados Unidos
+91540,America,Estados Unidos
+91669,America,Estados Unidos
+91798,America,Estados Unidos
+94001,America,Estados Unidos
+94343,America,Estados Unidos
+94883,America,Estados Unidos
+94884,America,Estados Unidos
+94885,America,Estados Unidos
+94886,America,Estados Unidos
+94887,America,Estados Unidos
+94888,America,Estados Unidos
+95001,America,Estados Unidos
+95015,America,Estados Unidos
+95025,America,Estados Unidos
+95200,America,Estados Unidos
+97001,America,Estados Unidos
+97161,America,Estados Unidos
+97511,America,Estados Unidos
+97666,America,Estados Unidos
+97777,America,Estados Unidos
+97889,America,Estados Unidos
+99001,America,Estados Unidos
+99524,America,Estados Unidos
+99624,America,Estados Unidos
+99773,America,Estados Unidos
